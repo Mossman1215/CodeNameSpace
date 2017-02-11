@@ -7,11 +7,13 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\robot</sprite>
+    <sprite>sprites\barrel</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\mainchar</object>
+    <object>objects\interaction1</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\test</room>
